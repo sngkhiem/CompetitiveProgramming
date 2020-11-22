@@ -2344,6 +2344,22 @@
     ],
     "timestamp": "Nov/21/2020 20:34"
   },
+  "CF99255958": {
+    "contest_id": 467,
+    "language": "GNU C++14",
+    "path": "codeforces\\467\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "George and Accommodation",
+    "problem_url": "https://codeforces.com/contest/467/problem/A",
+    "submission_id": "CF99255958",
+    "submission_url": "https://codeforces.com/contest/467/submission/99255958",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/22/2020 20:35"
+  },
   "CF99257180": {
     "contest_id": 136,
     "language": "GNU C++14",
