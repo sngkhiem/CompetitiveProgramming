@@ -1,4 +1,20 @@
 {
+  "CF102398200": {
+    "contest_id": 1296,
+    "language": "GNU C++14",
+    "path": "codeforces\\1296\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array with Odd Sum",
+    "problem_url": "https://codeforces.com/contest/1296/problem/A",
+    "submission_id": "CF102398200",
+    "submission_url": "https://codeforces.com/contest/1296/submission/102398200",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/26/2020 20:14"
+  },
   "CF102470842": {
     "contest_id": 581,
     "language": "GNU C++14",
