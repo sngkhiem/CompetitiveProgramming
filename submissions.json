@@ -1,4 +1,21 @@
 {
+  "CF102474354": {
+    "contest_id": 1399,
+    "language": "FPC",
+    "path": "codeforces\\1399\\A.pas",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Remove Smallest",
+    "problem_url": "https://codeforces.com/contest/1399/problem/A",
+    "submission_id": "CF102474354",
+    "submission_url": "https://codeforces.com/contest/1399/submission/102474354",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Dec/27/2020 20:56"
+  },
   "CF102624793": {
     "contest_id": 1469,
     "language": "FPC",
