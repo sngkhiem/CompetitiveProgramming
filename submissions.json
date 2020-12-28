@@ -1,4 +1,21 @@
 {
+  "CF102624793": {
+    "contest_id": 1469,
+    "language": "FPC",
+    "path": "codeforces\\1469\\A.pas",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Regular Bracket Sequence",
+    "problem_url": "https://codeforces.com/contest/1469/problem/A",
+    "submission_id": "CF102624793",
+    "submission_url": "https://codeforces.com/contest/1469/submission/102624793",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Dec/28/2020 23:43"
+  },
   "CF102629137": {
     "contest_id": 1469,
     "language": "FPC",
