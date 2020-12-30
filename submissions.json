@@ -1,4 +1,21 @@
 {
+  "CF102833639": {
+    "contest_id": 1466,
+    "language": "FPC",
+    "path": "codeforces\\1466\\B.pas",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Last minute enhancements",
+    "problem_url": "https://codeforces.com/contest/1466/problem/B",
+    "submission_id": "CF102833639",
+    "submission_url": "https://codeforces.com/contest/1466/submission/102833639",
+    "tags": [
+      "dp",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Dec/30/2020 23:14"
+  },
   "CF102845854": {
     "contest_id": 1466,
     "language": "FPC",
