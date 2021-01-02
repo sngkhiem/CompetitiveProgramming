@@ -1,4 +1,20 @@
 {
+  "CF103000054": {
+    "contest_id": 1154,
+    "language": "GNU C++14",
+    "path": "codeforces\\1154\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Restoring Three Numbers",
+    "problem_url": "https://codeforces.com/contest/1154/problem/A",
+    "submission_id": "CF103000054",
+    "submission_url": "https://codeforces.com/contest/1154/submission/103000054",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/02/2021 10:42"
+  },
   "CF103098876": {
     "contest_id": 1433,
     "language": "GNU C++14",
