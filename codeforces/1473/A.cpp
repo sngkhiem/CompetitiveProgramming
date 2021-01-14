@@ -49,17 +49,24 @@ int main() {
 	for (i, 1, t) {
 		int flag = 0, max = 0;
 		cin >> n >> d;
-		for (j, 1, n) cin >> a[j];
-		if (n == 1) {
-			if (a[n] <= d) cout << "YES" << endl;
-			else cout << "NO" << endl;
+		for (j, 1, n) {
+			cin >> a[j];
+			if (max < a[j]) max = a[j];
 		}
+		if (max <= d) cout << "YES" << endl;
 		else {
-			sort(a + 1, a + 1 + n);
-			if (a[1] + a[2] <= d || a[n] <= d) cout << "YES" << endl;
+			for (j, 1, n - 1) {
+				for (j1, 1, n) {
+					if (j1 != j && a[j1] + a[j] <= d) {
+						flag = 1;
+						break;
+					}
+				}
+			}
+			if (flag == 1) cout << "YES" << endl;
 			else cout << "NO" << endl;
 		}
-
+		
 	}
 
 	return 0;
