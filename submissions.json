@@ -1,4 +1,21 @@
 {
+  "CF126610299": {
+    "contest_id": 758,
+    "language": "GNU C++14",
+    "path": "codeforces\\758\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Holiday Of Equality",
+    "problem_url": "https://codeforces.com/contest/758/problem/A",
+    "submission_id": "CF126610299",
+    "submission_url": "https://codeforces.com/contest/758/submission/126610299",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/21/2021 17:06"
+  },
   "CF126618294": {
     "contest_id": 490,
     "language": "GNU C++14",
