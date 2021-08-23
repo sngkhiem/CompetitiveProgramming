@@ -1,4 +1,21 @@
 {
+  "CF126769962": {
+    "contest_id": 509,
+    "language": "GNU C++14",
+    "path": "codeforces\\509\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Maximum in Table",
+    "problem_url": "https://codeforces.com/contest/509/problem/A",
+    "submission_id": "CF126769962",
+    "submission_url": "https://codeforces.com/contest/509/submission/126769962",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/23/2021 22:01"
+  },
   "CF126770648": {
     "contest_id": 1358,
     "language": "GNU C++14",
