@@ -1,4 +1,21 @@
 {
+  "CF127264192": {
+    "contest_id": 1490,
+    "language": "GNU C++14",
+    "path": "codeforces\\1490\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dense Array",
+    "problem_url": "https://codeforces.com/contest/1490/problem/A",
+    "submission_id": "CF127264192",
+    "submission_url": "https://codeforces.com/contest/1490/submission/127264192",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/28/2021 19:59"
+  },
   "CF127265419": {
     "contest_id": 702,
     "language": "GNU C++14",
