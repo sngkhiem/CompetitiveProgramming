@@ -1,4 +1,20 @@
 {
+  "CF127267907": {
+    "contest_id": 1506,
+    "language": "GNU C++14",
+    "path": "codeforces\\1506\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Strange Table",
+    "problem_url": "https://codeforces.com/contest/1506/problem/A",
+    "submission_id": "CF127267907",
+    "submission_url": "https://codeforces.com/contest/1506/submission/127267907",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/28/2021 20:54"
+  },
   "CF127269097": {
     "contest_id": 1538,
     "language": "GNU C++14",
