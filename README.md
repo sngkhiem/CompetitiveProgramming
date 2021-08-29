@@ -12,13 +12,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-10 | [A - Domino Disaster](https://codeforces.com/contest/1567/problem/A) | [GNU C++14](./codeforces/1567/A.cpp) | `implementation` `strings` `*800` | Sep/05/2021 21:39 | 
-9 | [B - Appending Mex](https://codeforces.com/contest/1054/problem/B) | [GNU C++14](./codeforces/1054/B.cpp) | `implementation` `*1000` | Sep/05/2021 19:51 | 
-8 | [A - Phone Numbers](https://codeforces.com/contest/1060/problem/A) | [GNU C++14](./codeforces/1060/A.cpp) | `brute force` `*800` | Sep/05/2021 19:05 | 
-7 | [D - Caesar's Legions](https://codeforces.com/contest/118/problem/D) | [GNU C++14](./codeforces/118/D.cpp) | `dp` `*1700` | Sep/04/2021 14:23 | 
-6 | [B - Yet Another Bookshelf](https://codeforces.com/contest/1433/problem/B) | [GNU C++14](./codeforces/1433/B.cpp) | `greedy` `implementation` `*800` | Sep/03/2021 19:58 | 
-5 | [A - Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | [GNU C++14](./codeforces/1537/A.cpp) | `greedy` `math` `*800` | Sep/03/2021 17:25 | 
-4 | [A - Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | [GNU C++14](./codeforces/1529/A.cpp) | `constructive algorithms` `greedy` `math` `*800` | Sep/03/2021 16:56 | 
-3 | [A - Juggling Letters](https://codeforces.com/contest/1397/problem/A) | [GNU C++14](./codeforces/1397/A.cpp) | `greedy` `strings` `*800` | Sep/03/2021 16:47 | 
-2 | [B - Take Your Places!](https://codeforces.com/contest/1556/problem/B) | [GNU C++14](./codeforces/1556/B.cpp) | `implementation` `*1300` | Aug/29/2021 23:49 | 
-1 | [A - A Variety of Operations](https://codeforces.com/contest/1556/problem/A) | [GNU C++14](./codeforces/1556/A.cpp) | `math` `*800` | Aug/29/2021 21:46 | 
+11 | [A - Domino Disaster](https://codeforces.com/contest/1567/problem/A) | [GNU C++14](./codeforces/1567/A.cpp) | `implementation` `strings` `*800` | Sep/05/2021 21:39 | 
+10 | [B - Appending Mex](https://codeforces.com/contest/1054/problem/B) | [GNU C++14](./codeforces/1054/B.cpp) | `implementation` `*1000` | Sep/05/2021 19:51 | 
+9 | [A - Phone Numbers](https://codeforces.com/contest/1060/problem/A) | [GNU C++14](./codeforces/1060/A.cpp) | `brute force` `*800` | Sep/05/2021 19:05 | 
+8 | [D - Caesar's Legions](https://codeforces.com/contest/118/problem/D) | [GNU C++14](./codeforces/118/D.cpp) | `dp` `*1700` | Sep/04/2021 14:23 | 
+7 | [B - Yet Another Bookshelf](https://codeforces.com/contest/1433/problem/B) | [GNU C++14](./codeforces/1433/B.cpp) | `greedy` `implementation` `*800` | Sep/03/2021 19:58 | 
+6 | [A - Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | [GNU C++14](./codeforces/1537/A.cpp) | `greedy` `math` `*800` | Sep/03/2021 17:25 | 
+5 | [A - Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | [GNU C++14](./codeforces/1529/A.cpp) | `constructive algorithms` `greedy` `math` `*800` | Sep/03/2021 16:56 | 
+4 | [A - Juggling Letters](https://codeforces.com/contest/1397/problem/A) | [GNU C++14](./codeforces/1397/A.cpp) | `greedy` `strings` `*800` | Sep/03/2021 16:47 | 
+3 | [B - Take Your Places!](https://codeforces.com/contest/1556/problem/B) | [GNU C++14](./codeforces/1556/B.cpp) | `implementation` `*1300` | Aug/29/2021 23:49 | 
+2 | [A - A Variety of Operations](https://codeforces.com/contest/1556/problem/A) | [GNU C++14](./codeforces/1556/A.cpp) | `math` `*800` | Aug/29/2021 21:46 | 
+1 | [A - Subtract or Divide](https://codeforces.com/contest/1451/problem/A) | [GNU C++14](./codeforces/1451/A.cpp) | `greedy` `math` `*800` | Aug/29/2021 21:26 | 

@@ -1,4 +1,21 @@
 {
+  "CF127333865": {
+    "contest_id": 1451,
+    "language": "GNU C++14",
+    "path": "codeforces\\1451\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Subtract or Divide",
+    "problem_url": "https://codeforces.com/contest/1451/problem/A",
+    "submission_id": "CF127333865",
+    "submission_url": "https://codeforces.com/contest/1451/submission/127333865",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/29/2021 21:26"
+  },
   "CF127342910": {
     "contest_id": 1556,
     "language": "GNU C++14",
