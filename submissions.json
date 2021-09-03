@@ -1,4 +1,21 @@
 {
+  "CF127757772": {
+    "contest_id": 1537,
+    "language": "GNU C++14",
+    "path": "codeforces\\1537\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arithmetic Array",
+    "problem_url": "https://codeforces.com/contest/1537/problem/A",
+    "submission_id": "CF127757772",
+    "submission_url": "https://codeforces.com/contest/1537/submission/127757772",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/03/2021 17:25"
+  },
   "CF127767407": {
     "contest_id": 1433,
     "language": "GNU C++14",
