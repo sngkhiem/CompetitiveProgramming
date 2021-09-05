@@ -12,4 +12,5 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [A - Domino Disaster](https://codeforces.com/contest/1567/problem/A) | [GNU C++14](./codeforces/1567/A.cpp) | `implementation` `strings` `*800` | Sep/05/2021 21:39 | 
+2 | [A - Domino Disaster](https://codeforces.com/contest/1567/problem/A) | [GNU C++14](./codeforces/1567/A.cpp) | `implementation` `strings` `*800` | Sep/05/2021 21:39 | 
+1 | [B - Appending Mex](https://codeforces.com/contest/1054/problem/B) | [GNU C++14](./codeforces/1054/B.cpp) | `implementation` `*1000` | Sep/05/2021 19:51 | 
