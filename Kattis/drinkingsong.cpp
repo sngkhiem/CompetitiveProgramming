@@ -28,17 +28,15 @@ const int dY[] = {0,0,-1,1};
 
 signed main() {
     fastIO;
-    int n; cin >> n;
-    int t = 0, b = 0, l = 0, r = 0;
-    while (n--) {
-        char a,b1,c,d;
-        cin >> a >> b1 >> c >> d;
-        if (a == '0') t++;
-        if (b1 == '0') b++;
-        if (c == '0') l++;
-        if (d == '0') r++;
+    int n; string s;
+    cin >> n >> s;
+    for (int i = n; i > 1; i--) {
+        cout << i << " bottles of " << s << " on the wall, " << i << " bottles of " << s << ".\n";
+        if (i-1 != 1) cout << "Take one down, pass it around, " << i-1 << " bottles of " << s << " on the wall.\n";
+        else cout << "Take one down, pass it around, " << 1 << " bottle of " << s << " on the wall.\n";
+        cout << endl;
     }
-    int tmp = min(t+b,l+r);
-    cout << tmp/2 << " " << (t+b)-(tmp/2*2) << " " << (l+r)-(tmp/2*2);
+    cout << 1 << " bottle of " << s << " on the wall, " << 1 << " bottle of " << s << ".\n";
+    cout << "Take it down, pass it around, no more bottles of " << s << ".";
     return 0;
 }
