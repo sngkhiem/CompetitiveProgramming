@@ -12,7 +12,7 @@ void solve() {
         check[abs(a[i]-a[i+1])] = true;
     for (int i = 1; i <= n-1; i++)
         if (!check[i]) {
-            cout << "Not Jolly\n";
+            cout << "Not jolly\n";
             return;
         }
     cout << "Jolly\n";
