@@ -29,7 +29,7 @@ void backtrack(int c) {
 }
 
 signed main() {
-    freopen("inp.txt","r",stdin); freopen("out.txt","w",stdout);
+    //freopen("inp.txt","r",stdin); freopen("out.txt","w",stdout);
     int t; cin >> t;
     cin.ignore();
     while (t--) {
