@@ -15,8 +15,8 @@ void backtrack(int c) {
         if (cntSol+1 < 10)
             cout << " " << ++cntSol << "      ";
         else cout << ++cntSol << "      ";
-        for (int j = 0; j < 8; j++) cout << row[j]+1 << " ";
-        cout << "\n";
+        for (int j = 0; j < 7; j++) cout << row[j]+1 << " ";
+        cout << row[7]+1 << "\n";
         return;
     }
     for (int r = 0; r < 8; r++) {
@@ -29,15 +29,15 @@ void backtrack(int c) {
 }
 
 signed main() {
-    freopen("inp.txt","r",stdin);
-    freopen("out.txt","w",stdout);
+    freopen("inp.txt","r",stdin); freopen("out.txt","w",stdout);
     int t; cin >> t;
     cin.ignore();
     while (t--) {
         memset(row,0,sizeof row);
         cntSol = 0;
         cin >> a >> b; a--; b--;
-        cout << "SOLN       COLUMN\n\n";
+        cout << "SOLN       COLUMN\n";
+        cout << " #      1 2 3 4 5 6 7 8\n\n";
         backtrack(0);
         if (t) cout << "\n";
     }
